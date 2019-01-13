@@ -1,0 +1,14 @@
+[MouseSettings]
+Sensitivity=1
+Acceleration=0
+SensitivityCap=2
+SpeedCap=0
+Offset=0
+Power=2
+Pre-ScaleX=1
+Pre-ScaleY=1
+Post-ScaleX=1
+Post-ScaleY=1
+AngleSnap=0
+Angle=0
+Enabled=1
